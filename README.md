@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7aa2f7&style=flat-square&label=Profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Wiremuloader&color=7aa2f7&style=flat-square&label=Profile+views" />
 </p>
 
 ---
 
 ### 🙋‍♂️ About me
-Kia ora!
+
 I'm a computer science student who likes building things that solve problems I actually have, like too many lecture slides to study, a grocery budget that won't behave, or wanting live sports on a screen by my desk.
 
 - 🔭 **Currently working on:** a kapa haka choreography app and an Android timetable tracker
@@ -69,16 +69,16 @@ I'm a computer science student who likes building things that solve problems I a
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wiremuloader&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wiremuloader&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Wiremuloader&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wiremuloader&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -87,8 +87,8 @@ I'm a computer science student who likes building things that solve problems I a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wiremuloader/Wiremuloader/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Wiremuloader/Wiremuloader/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
