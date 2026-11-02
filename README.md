@@ -1,6 +1,6 @@
 # Kia ora, I'm Wiremu 👋
 
-Computer science student at Massey University, Palmerston North, New Zealand.
+Computer science student at Massey University, Palmerston North, Aotearoa/New Zealand.
 I enjoy building apps that solve problems I actually have, like too many lecture slides, a grocery budget, or a sports wallboard for my desk.
 
 ## 🔨 Things I've built
