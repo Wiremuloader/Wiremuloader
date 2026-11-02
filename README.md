@@ -18,10 +18,8 @@
 
 I'm a computer science student who likes building things that solve problems I actually have, like too many lecture slides to study, a grocery budget that won't behave, or wanting live sports on a screen by my desk.
 
-- 🔭 **Currently working on:** a kapa haka choreography app and an Android timetable tracker
 - 🧠 **Interested in:** RAG and local LLMs, agentic apps, ML for sport, and game systems
 - 🌱 **Learning:** Kotlin + Jetpack Compose, fuzzy logic and control systems
-- 💬 **Ask me about:** running LLMs locally, Next.js, or Minecraft modding
 
 ---
 
